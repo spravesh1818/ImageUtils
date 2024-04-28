@@ -1,0 +1,9 @@
+.DS_Store
+
+# Ignore virtual env
+ic
+
+# Ignore the output folder
+output
+
+*/__pycache__
